@@ -1,0 +1,6 @@
+framework module NopqzipLib {
+  umbrella header "NopqzipLib.h"
+
+  export *
+  module * { export * }
+}
